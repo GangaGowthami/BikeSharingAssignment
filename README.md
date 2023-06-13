@@ -18,10 +18,10 @@ Which variables are significant in predicting the demand for shared bikes.
 
 # steps Performed
 
-Step 1:Data understanding and exploration
-Step 2:Data Visualisation
-Step 3:Data preparation
-Step 4:Model building and evaluation(Scaling)
+- Data understanding and exploration
+- Data Visualisation
+- Data preparation
+- Model building and evaluation(Scaling)
 
 ## Technologies Used
 - Python
