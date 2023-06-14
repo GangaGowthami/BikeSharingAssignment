@@ -29,6 +29,7 @@ Which variables are significant in predicting the demand for shared bikes.
 - Numpy
 - Matplotlib
 - Seaborn
+- sklearn
 
 # Conclusion
 Thus, for the model with 8 variables, the r-squared on training and test data is about 80.2% and 78.52% respectively. The adjusted r-squared on the train set is about 79.9%.
